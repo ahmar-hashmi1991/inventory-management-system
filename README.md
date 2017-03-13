@@ -4,6 +4,11 @@
 
 The business is spread in four cities in different parts of the world, namely, Tokyo, Shanghai, Singapore, Delhi. It deals in eight categories of computer parts, such as CPUs, memory, etc. In each category, parts have different makers and model numbers, and each product also has a unique code. This software is designed to help in the management of an inventory in a business process.
 
+# Instructions how to build the project
+
+I have used eclipse to build this project. Simply export this project as a javascript project into your workspace, and run it.
+You shall see the index.html page popping up in your browser, where you can enter the login credentials as stated below.
+
 # Users
 
 There are four users of this system :
