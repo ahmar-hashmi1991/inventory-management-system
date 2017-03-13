@@ -1,5 +1,6 @@
 # inventory-management-system
-There are four users of this system-
+There are four users of this system :
+
 --superuser
 --salesteam
 --purchaseteam
