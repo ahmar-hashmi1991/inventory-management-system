@@ -1,0 +1,3 @@
+id,whouseid,itemid,quantity,issue,status
+1,1,1,-1,discrepancy,pending
+2,1,2,-3,damaged,pending
